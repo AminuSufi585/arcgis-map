@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# ArcGIS Map
+
+Basic usage of [`react-arcgis`](https://github.com/nicksenger/react-arcgis) package using React and ArcGIS API. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
